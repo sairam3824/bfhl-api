@@ -1,0 +1,4 @@
+com\example\bfhl\controller\ApiController.class
+com\example\bfhl\BfhlApplication.class
+com\example\bfhl\model\ResponseData.class
+com\example\bfhl\model\RequestData.class
